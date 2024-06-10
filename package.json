@@ -1,15 +1,17 @@
 {
-  "name": "studentno-classcode-group-name-surname-djs08",
+  "name": "BILMAB458_WFO2401_B_Billy-Mabunda_DJS08",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
   "dependencies": {
+    "miragejs": "^0.1.48",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3"
